@@ -1,5 +1,5 @@
-# Projeto-Final-Reprograma
-Final Project for Reprograma Bootcamp
+# Projeto-Reprograma
+Project for Reprograma Bootcamp
 
 
 To-Do:
